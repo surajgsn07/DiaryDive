@@ -128,9 +128,9 @@ mysqli_close($conn);
     </style>
 </head>
 <body>
-    <!-- <div id="cursor">
+     <div id="cursor">
 
-    </div> -->
+    </div> 
 
     <div id="main">
 
